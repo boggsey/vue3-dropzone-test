@@ -8375,10 +8375,10 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue3-dropzone@0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/vue3-dropzone/-/vue3-dropzone-0.0.6.tgz#803dded8ffd68be4c1f8d921fdd15f9ac4b929ff"
-  integrity sha512-qaYDt9upKCbxOQahoy7el1ViHZn2SwSG8sclrTY85D/GUr5JMEUwXGMTj64saZRpME3PNIStDXkYphpjY7bkjg==
+vue3-dropzone@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/vue3-dropzone/-/vue3-dropzone-0.0.7.tgz#a7ac29ce8996e61f5d92952b65de1acf2fe0dac9"
+  integrity sha512-aNUCEWcq/umC1rPLkpXBMcA8OIn17OKRKZxqIhVSBBhqt0F6ObAacKMC8noOTfHutVWzXhQU1qk8ynqCRfsEWA==
   dependencies:
     attr-accept "^2.2.2"
     file-selector "^0.2.4"
